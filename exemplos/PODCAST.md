@@ -1,20 +1,16 @@
 # Podcast: Descobrindo IAs Generativas em 5 Minutos 🎙️
 
 ## 📒 Descrição
-Este podcast de 5 minutos oferece um passeio rápido, mas profundo, pelo mundo das IAs Generativas e sua influência na tecnologia moderna.
+Este podcast de 6 minutos oferece um passeio rápido, mas profundo, pelo início da Igreja Católica, dos que se denominavam primeiro como discipulos e depois como irmãos.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
-- IA Generativa **[ElevenLabs](https://www.elevenlabs.io)** para clonagem e sintetização de voz;
-- Software **[Descript](https://www.descript.com)** para edição e montagem do podcast.
-
-## 🧐 Processo de Criação
-"ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar a narrativa do podcast. "ElevenLabs" ajudou a criar uma voz sintética envolvente para a narração, enquanto o "Descript" foi essencial para a edição final, garantindo um fluxo suave e profissional.
+Gemini Advanced para criar o áudio simulando um podcast entre duas ou três pessoas. O script que eu usei foi "Criar Visão Geral em Áudio", sugerida pela própria IA, anexei o arquivo com o trecho do livro e consegui o áudio.
+Com o https://clideo.com/pt/video-translator eu criei uma legenda em Português-BR para poder colocar no vídeo.
+Do Youtube peguei o trecho de um vídeo de Israel histórica.
+Com o Wondershare Filmora eu uni todos esses elementos para criar o video final.
 
 ## 🚀 Resultados
-O episódio é uma introdução acessível e estimulante ao campo das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
+Um episódio do Deep Dive (nomeado pela própria IA durante o áudio) com detalhes intrigantes da vida e costumes dos primeiros cristãos.
 
-[LINK PARA O PODCAST AQUI]()
+[LINK PARA O PODCAST AQUI](https://g.co/gemini/share/77d3ea887f16)
 
-## 💭 Reflexão
-O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
